@@ -1,0 +1,15 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "description": "My contacts with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Mendao",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mongodb": "^3.6.2"
+  }
+}
